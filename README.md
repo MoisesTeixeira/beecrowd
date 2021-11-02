@@ -6,6 +6,8 @@ Segue os links abaixo para ver enunciados dos exercicíos.
 
 - [ex1000](https://www.beecrowd.com.br/judge/pt/problems/view/1000)
 - [ex1001](https://www.beecrowd.com.br/judge/pt/problems/view/1001)
+- [ex1002](https://www.beecrowd.com.br/judge/pt/problems/view/1002)
+- [ex1003](https://www.beecrowd.com.br/judge/pt/problems/view/1003)
 #
 
 ## Meu perfil

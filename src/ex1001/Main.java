@@ -6,43 +6,43 @@ public class Main
 {
     public static void main(String[] args)
     {
-        TextInterface data = new TextInterface();
+        TextInterface textInterface = new TextInterface();
 
-        data.print();
+        textInterface.print();
     }    
 }
 
 class TextInterface
 {
     private Scanner input;
-    private SumOfTwoValues result;
+    private Calculator calculator;
 
     public TextInterface()
     {
         input = new Scanner(System.in);
-        result = new SumOfTwoValues(input.nextInt(), input.nextInt());
+        calculator = new Calculator(input.nextInt(), input.nextInt());
     }
 
     public void print()
     {
-        System.out.printf("X = %d%n", result.getSumResult());
+        System.out.printf("X = %d%n", calculator.getResult());
     }
 }
 
-class SumOfTwoValues
+class Calculator
 {
-    private int valueOne, valueTwo, sumResult;
+    private int valueOne, valueTwo, result;
 
-    public SumOfTwoValues(int valueOne, int valueTwo)
+    public Calculator(int valueOne, int valueTwo)
     {
         this.valueOne = valueOne;
         this.valueTwo = valueTwo;
     }
 
-    public int getSumResult()
+    public int getResult()
     {
-        sumResult = valueOne + valueTwo;
+     result = valueOne + valueTwo;
 
-        return sumResult;
+        return result;
     }
 }

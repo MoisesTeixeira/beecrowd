@@ -4,39 +4,23 @@ public class Main
 {
     public static void main(String[] args)
     {
-        InterfaceTexto dados = new InterfaceTexto();
+        TextInterface textInterface = new TextInterface("Hello World!");
 
-        dados.print("Hello World!");
+        textInterface.print();
     }
 }
 
-class InterfaceTexto
+class TextInterface
 {
-    private Mensagem imprimir;
+    private String message;
 
-    public InterfaceTexto()
+    public TextInterface(String message)
     {
-        imprimir = new Mensagem();
+        this.message = message;
     }
 
-    public void print(String input)
+    public void print()
     {
-        imprimir.setMensagem(input);
-        System.out.println(imprimir.getMensagem());
-    }
-}
-
-class Mensagem
-{
-    private String mensagem;
-
-    public String getMensagem()
-    {
-        return mensagem;
-    }
-
-    public void setMensagem(String mensagem)
-    {
-        this.mensagem = mensagem;
+        System.out.println(message);
     }
 }
