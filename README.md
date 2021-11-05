@@ -1,5 +1,9 @@
 # beecrowd
 
+Algumas soluções de exercicíos [aqui no meu repositório](https://github.com/MoisesTeixeira/beecrowd/tree/main/src/beginner) beecrowd, implementação em java OO, exercicíos fornecidos pelo site: [beecrowd](https://www.beecrowd.com.br).
+
+#
+
 ## Enunciados
 
 Segue os links abaixo para ver enunciados dos exercicíos.
@@ -10,9 +14,10 @@ Segue os links abaixo para ver enunciados dos exercicíos.
 - [ex1003](https://www.beecrowd.com.br/judge/pt/problems/view/1003)
 - [ex1004](https://www.beecrowd.com.br/judge/pt/problems/view/1004)
 - [ex1005](https://www.beecrowd.com.br/judge/pt/problems/view/1005)
+- [ex1006](https://www.beecrowd.com.br/judge/pt/problems/view/1006)
 
 #
 
-## Meu perfil
+## Meu perfil beecrowd
 
-Nesse link: [perfil](https://www.beecrowd.com.br/judge/pt/profile/523322) você pode conferir todos os exercicíos que eu já resolvi.
+No meu [perfil](https://www.beecrowd.com.br/judge/pt/profile/523322) você pode conferir todos exercicíos que já resolvi.
