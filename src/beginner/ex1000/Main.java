@@ -1,4 +1,4 @@
-package ex1000;
+package beginner.ex1000;
 
 public class Main
 {

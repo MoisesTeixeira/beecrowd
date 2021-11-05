@@ -1,4 +1,4 @@
-package ex1002;
+package beginner.ex1002;
 
 import java.util.Scanner;
 

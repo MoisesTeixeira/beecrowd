@@ -1,4 +1,4 @@
-package ex1001;
+package beginner.ex1003;
 
 import java.util.Scanner;
 
@@ -9,14 +9,14 @@ public class Main
         TextInterface textInterface = new TextInterface();
 
         textInterface.print();
-    }    
+    }
 }
 
 class TextInterface
 {
     private Scanner input;
     private Calculator calculator;
-
+    
     public TextInterface()
     {
         input = new Scanner(System.in);
@@ -25,7 +25,7 @@ class TextInterface
 
     public void print()
     {
-        System.out.printf("X = %d%n", calculator.getResult());
+        System.out.printf("SOMA = %d%n",calculator.getResult());
     }
 }
 
@@ -38,10 +38,10 @@ class Calculator
         this.valueOne = valueOne;
         this.valueTwo = valueTwo;
     }
-
+    
     public int getResult()
     {
-     result = valueOne + valueTwo;
+        result = valueOne + valueTwo;
 
         return result;
     }
