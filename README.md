@@ -18,6 +18,7 @@ Segue os links abaixo para ver enunciados dos exercicíos.
 - [ex1007](https://www.beecrowd.com.br/judge/pt/problems/view/1007)
 - [ex1008](https://www.beecrowd.com.br/judge/pt/problems/view/1008)
 - [ex1009](https://www.beecrowd.com.br/judge/pt/problems/view/1009)
+- [ex1010](https://www.beecrowd.com.br/judge/pt/problems/view/1010)
 
 #
 
