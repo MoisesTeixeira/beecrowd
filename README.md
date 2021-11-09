@@ -38,5 +38,19 @@ beginner | [Problem](https://www.beecrowd.com.br/judge/pt/problems/view/1010) | 
 beginner | [Problem](https://www.beecrowd.com.br/judge/pt/problems/view/1011) | [ex1011](https://github.com/MoisesTeixeira/beecrowd/blob/main/src/beginner/ex1011/Main.java)
 beginner | [Problem](https://www.beecrowd.com.br/judge/pt/problems/view/1012) | [ex1012](https://github.com/MoisesTeixeira/beecrowd/blob/main/src/beginner/ex1012/Main.java)
 beginner | [Problem](https://www.beecrowd.com.br/judge/pt/problems/view/1013) | [ex1013](https://github.com/MoisesTeixeira/beecrowd/blob/main/src/beginner/ex1013/Main.java)
+beginner | [Problem](https://www.beecrowd.com.br/judge/pt/problems/view/1014) | [ex1014](https://github.com/MoisesTeixeira/beecrowd/blob/main/src/beginner/ex1014/Main.java)
 
 </div>
+
+<!-- beginner | [Problem]() | [ex1015]()
+beginner | [Problem]() | [ex1016]()
+beginner | [Problem]() | [ex1017]()
+beginner | [Problem]() | [ex1018]()
+beginner | [Problem]() | [ex1019]()
+beginner | [Problem]() | [ex1020]()
+beginner | [Problem]() | [ex1021]()
+beginner | [Problem]() | [ex1022]()
+beginner | [Problem]() | [ex1023]()
+beginner | [Problem]() | [ex1024]()
+beginner | [Problem]() | [ex1025]()
+beginner | [Problem]() | [ex1026]() -->
