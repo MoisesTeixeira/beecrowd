@@ -30,11 +30,11 @@ beginner | [Problem](https://www.beecrowd.com.br/judge/pt/problems/view/1012) | 
 beginner | [Problem](https://www.beecrowd.com.br/judge/pt/problems/view/1013) | [ex1013](https://github.com/MoisesTeixeira/beecrowd/blob/main/src/beginner/ex1013/Main.java)
 beginner | [Problem](https://www.beecrowd.com.br/judge/pt/problems/view/1014) | [ex1014](https://github.com/MoisesTeixeira/beecrowd/blob/main/src/beginner/ex1014/Main.java)
 beginner | [Problem](https://www.beecrowd.com.br/judge/pt/problems/view/1015) | [ex1015](https://github.com/MoisesTeixeira/beecrowd/blob/main/src/beginner/ex1015/Main.java)
+beginner | [Problem](https://www.beecrowd.com.br/judge/pt/problems/view/1016) | [ex1016](https://github.com/MoisesTeixeira/beecrowd/blob/main/src/beginner/ex1016/Main.java)
 
 </div>
 
 <!-- beginner | [Problem]() | [ex0000]()
-beginner | [Problem]() | [ex1016]()
 beginner | [Problem]() | [ex1017]()
 beginner | [Problem]() | [ex1018]()
 beginner | [Problem]() | [ex1019]()
